@@ -1,0 +1,6 @@
+@ArenasLobby_HostAddress = http://localhost:5211
+
+GET {{ArenasLobby_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
